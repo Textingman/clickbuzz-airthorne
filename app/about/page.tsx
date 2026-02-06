@@ -51,7 +51,7 @@ export default function AboutPage() {
               About Airthorne
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We're building the future of SMS verification, helping businesses verify customer identity while improving delivery rates.
+              We believe in delivering exceptional service that exceeds expectations. Quality isn't just what we do—it's who we are.
             </p>
           </div>
         </div>
@@ -63,13 +63,13 @@ export default function AboutPage() {
           <div>
             <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Mission</h2>
             <p className="text-lg text-gray-600 mb-4">
-              Airthorne was created to solve a critical problem: businesses need a reliable way to verify customer identity via SMS while maintaining high delivery rates.
+              At Airthorne, we're committed to providing professional services that make a real difference in our customers' lives. We understand that quality service isn't just about getting the job done—it's about building lasting relationships based on trust and excellence.
             </p>
             <p className="text-lg text-gray-600 mb-4">
-              We provide a simple, secure verification platform that acts as a trusted intermediary between businesses and their customers.
+              Every project we undertake is an opportunity to demonstrate our dedication to craftsmanship, reliability, and customer satisfaction. We don't cut corners, and we don't compromise on quality.
             </p>
             <p className="text-lg text-gray-600">
-              Our goal is to make SMS verification seamless, secure, and accessible for businesses of all sizes.
+              Our goal is simple: to be the service provider you can count on, every single time.
             </p>
           </div>
           <div className="bg-[#F0F9F4] rounded-2xl p-8">
@@ -79,9 +79,9 @@ export default function AboutPage() {
                   <Target className="w-8 h-8 text-[#B7E87B]" />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Focused on Quality</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Excellence in Every Detail</h3>
                   <p className="text-gray-600">
-                    Built from the ground up to meet industry standards and best practices.
+                    We believe that quality service starts with attention to detail and a commitment to doing things right.
                   </p>
                 </div>
               </div>
@@ -90,9 +90,9 @@ export default function AboutPage() {
                   <Shield className="w-8 h-8 text-[#B7E87B]" />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Security First</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Trust & Reliability</h3>
                   <p className="text-gray-600">
-                    Your customers' data is protected with enterprise-grade security measures.
+                    Your trust is earned through consistent, dependable service that meets and exceeds expectations.
                   </p>
                 </div>
               </div>
@@ -101,9 +101,9 @@ export default function AboutPage() {
                   <Zap className="w-8 h-8 text-[#B7E87B]" />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Lightning Fast</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Responsive Service</h3>
                   <p className="text-gray-600">
-                    Optimized for speed with sub-2-second page loads on mobile networks.
+                    We're here when you need us, with prompt responses and efficient service delivery.
                   </p>
                 </div>
               </div>
@@ -116,9 +116,9 @@ export default function AboutPage() {
       {/* Why Choose Us Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Businesses Choose Us</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Airthorne</h2>
           <p className="text-xl text-gray-600">
-            Trusted by companies that value compliance, security, and reliability
+            Our commitment to quality service sets us apart
           </p>
         </div>
 
@@ -127,9 +127,9 @@ export default function AboutPage() {
             <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Shield className="w-8 h-8 text-[#B7E87B]" />
             </div>
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">Reliable Service</h3>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">Quality Guaranteed</h3>
             <p className="text-gray-600">
-              Built with industry best practices for maximum reliability.
+              We stand behind our work with comprehensive warranties and guarantees.
             </p>
           </div>
 
@@ -137,9 +137,9 @@ export default function AboutPage() {
             <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Users className="w-8 h-8 text-[#B7E87B]" />
             </div>
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">Multi-Brand Support</h3>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">Professional Team</h3>
             <p className="text-gray-600">
-              Support multiple brands with customizable styling options.
+              Our experienced professionals are licensed, certified, and dedicated to excellence.
             </p>
           </div>
 
@@ -147,9 +147,9 @@ export default function AboutPage() {
             <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Zap className="w-8 h-8 text-[#B7E87B]" />
             </div>
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">High Performance</h3>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">Fast & Efficient</h3>
             <p className="text-gray-600">
-              Global CDN ensures fast load times worldwide.
+              We respect your time with prompt service and efficient project completion.
             </p>
           </div>
 
@@ -157,9 +157,9 @@ export default function AboutPage() {
             <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Target className="w-8 h-8 text-[#B7E87B]" />
             </div>
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">Easy Integration</h3>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">Customer Focused</h3>
             <p className="text-gray-600">
-              Simple URL-based integration with comprehensive documentation.
+              Your satisfaction is our priority, and we're not done until you're completely happy.
             </p>
           </div>
         </div>
@@ -169,10 +169,10 @@ export default function AboutPage() {
       <section className="bg-gradient-to-r from-[#1F7A8C] via-[#2493A3] to-[#B7E87B] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-bold text-white mb-6">
-            Ready to Get Started?
+            Ready to Experience Quality Service?
           </h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Join businesses that trust Airthorne for SMS verification.
+            Join the customers who trust Airthorne for professional, reliable service.
           </p>
           <Link
             href="/getquote"
@@ -184,17 +184,17 @@ export default function AboutPage() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-[#3b3a41] text-white py-12">
+      <footer className="bg-[#1F2937] text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             <div>
               <h3 className="text-xl font-bold mb-4">Airthorne</h3>
               <p className="text-gray-400">
-                SMS verification for businesses.
+                Professional services you can trust.
               </p>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Product</h4>
+              <h4 className="font-semibold mb-4">Company</h4>
               <ul className="space-y-2">
                 <li>
                   <Link href="/about" className="text-gray-400 hover:text-white">
@@ -202,22 +202,12 @@ export default function AboutPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/getquote" className="text-gray-400 hover:text-white">
-                    Get Started
-                  </Link>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Legal</h4>
-              <ul className="space-y-2">
-                <li>
-                  <Link href="/privacy" className="text-gray-400 hover:text-white">
+                  <Link href="/privacy" className="text-gray-400 hover:text-[#B7E87B]">
                     Privacy Policy
                   </Link>
                 </li>
                 <li>
-                  <Link href="/terms" className="text-gray-400 hover:text-white">
+                  <Link href="/terms" className="text-gray-400 hover:text-[#B7E87B]">
                     Terms of Service
                   </Link>
                 </li>
@@ -225,8 +215,11 @@ export default function AboutPage() {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
+              <p className="text-gray-400 mb-2">
+                +1 (617) 210-8911
+              </p>
               <p className="text-gray-400">
-                support@airthorne.com
+                info@airthorne.com
               </p>
             </div>
           </div>

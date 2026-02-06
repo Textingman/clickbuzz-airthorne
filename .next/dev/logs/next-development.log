@@ -264,3 +264,62 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:31:20.436] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:31:20.560] Browser WARN    Image with src "/Airthorne_Logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:22.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:24.303] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:24.438] Browser WARN    Image with src "/HVAC_Image3.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:51:04.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:45.133] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:00.200] Server  LOG     ✓ Compiled in 223ms
+[00:56:00.302] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:382:22
+Parsing ecmascript source code failed
+  380 |                 
+  381 |
+> 382 |               </form>
+      |                      ^
+> 383 |             </>
+      | ^^^^^^^^^^^^^
+  384 |           )}
+  385 |         </div>
+  386 |       </section>
+
+Expected '</', got 'jsx text (
+            )'
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:56:26.749] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:337:22
+Parsing ecmascript source code failed
+  335 |                 
+  336 |
+> 337 |               </form>
+      |                      ^
+> 338 |             </>
+      | ^^^^^^^^^^^^^
+  339 |           )}
+  340 |         </div>
+  341 |       </section>
+
+Expected '</', got 'jsx text (
+            )'
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:56:44.522] Server  LOG     ✓ Compiled in 16ms
+[00:58:36.491] Server  LOG     ✓ Compiled in 19ms
+[01:00:14.682] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:10.488] Server  LOG     ✓ Compiled in 18ms
+[01:05:31.201] Server  LOG     ✓ Compiled in 21ms
+[01:05:48.508] Server  LOG     ✓ Compiled in 340ms
+[01:06:03.094] Server  LOG     ✓ Compiled in 14ms

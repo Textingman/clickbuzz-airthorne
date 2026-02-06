@@ -110,7 +110,7 @@ function AboutPage() {
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                            href: "/signup",
+                                            href: "/getquote",
                                             className: "bg-[#B7E87B] text-white hover:bg-[#A4DA64] px-4 py-2 rounded-md text-sm font-medium",
                                             children: "Get Started"
                                         }, void 0, false, {
@@ -162,7 +162,7 @@ function AboutPage() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-xl text-gray-600 max-w-3xl mx-auto",
-                                children: "We're building the future of SMS verification, helping businesses verify customer identity while improving delivery rates."
+                                children: "We believe in delivering exceptional service that exceeds expectations. Quality isn't just what we do—it's who we are."
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                 lineNumber: 53,
@@ -201,7 +201,7 @@ function AboutPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-lg text-gray-600 mb-4",
-                                    children: "Airthorne was created to solve a critical problem: businesses need a reliable way to verify customer identity via SMS while maintaining high delivery rates."
+                                    children: "At Airthorne, we're committed to providing professional services that make a real difference in our customers' lives. We understand that quality service isn't just about getting the job done—it's about building lasting relationships based on trust and excellence."
                                 }, void 0, false, {
                                     fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                     lineNumber: 65,
@@ -209,7 +209,7 @@ function AboutPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-lg text-gray-600 mb-4",
-                                    children: "We provide a simple, secure verification platform that acts as a trusted intermediary between businesses and their customers."
+                                    children: "Every project we undertake is an opportunity to demonstrate our dedication to craftsmanship, reliability, and customer satisfaction. We don't cut corners, and we don't compromise on quality."
                                 }, void 0, false, {
                                     fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                     lineNumber: 68,
@@ -217,7 +217,7 @@ function AboutPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-lg text-gray-600",
-                                    children: "Our goal is to make SMS verification seamless, secure, and accessible for businesses of all sizes."
+                                    children: "Our goal is simple: to be the service provider you can count on, every single time."
                                 }, void 0, false, {
                                     fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                     lineNumber: 71,
@@ -256,7 +256,7 @@ function AboutPage() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                                        children: "Focused on Quality"
+                                                        children: "Excellence in Every Detail"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 82,
@@ -264,7 +264,7 @@ function AboutPage() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-gray-600",
-                                                        children: "Built from the ground up to meet industry standards and best practices."
+                                                        children: "We believe that quality service starts with attention to detail and a commitment to doing things right."
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 83,
@@ -304,7 +304,7 @@ function AboutPage() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                                        children: "Security First"
+                                                        children: "Trust & Reliability"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 93,
@@ -312,7 +312,7 @@ function AboutPage() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-gray-600",
-                                                        children: "Your customers' data is protected with enterprise-grade security measures."
+                                                        children: "Your trust is earned through consistent, dependable service that meets and exceeds expectations."
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 94,
@@ -352,7 +352,7 @@ function AboutPage() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                                        children: "Lightning Fast"
+                                                        children: "Responsive Service"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 104,
@@ -360,7 +360,7 @@ function AboutPage() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-gray-600",
-                                                        children: "Optimized for speed with sub-2-second page loads on mobile networks."
+                                                        children: "We're here when you need us, with prompt responses and efficient service delivery."
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 105,
@@ -408,7 +408,7 @@ function AboutPage() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 className: "text-4xl font-bold text-gray-900 mb-4",
-                                children: "Why Businesses Choose Us"
+                                children: "Why Choose Airthorne"
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                 lineNumber: 119,
@@ -416,7 +416,7 @@ function AboutPage() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-xl text-gray-600",
-                                children: "Trusted by companies that value compliance, security, and reliability"
+                                children: "Our commitment to quality service sets us apart"
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                 lineNumber: 120,
@@ -450,7 +450,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                        children: "Reliable Service"
+                                        children: "Quality Guaranteed"
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 130,
@@ -458,7 +458,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-gray-600",
-                                        children: "Built with industry best practices for maximum reliability."
+                                        children: "We stand behind our work with comprehensive warranties and guarantees."
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 131,
@@ -489,7 +489,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                        children: "Multi-Brand Support"
+                                        children: "Professional Team"
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 140,
@@ -497,7 +497,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-gray-600",
-                                        children: "Support multiple brands with customizable styling options."
+                                        children: "Our experienced professionals are licensed, certified, and dedicated to excellence."
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 141,
@@ -528,7 +528,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                        children: "High Performance"
+                                        children: "Fast & Efficient"
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 150,
@@ -536,7 +536,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-gray-600",
-                                        children: "Global CDN ensures fast load times worldwide."
+                                        children: "We respect your time with prompt service and efficient project completion."
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 151,
@@ -567,7 +567,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "text-lg font-semibold text-gray-900 mb-2",
-                                        children: "Easy Integration"
+                                        children: "Customer Focused"
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 160,
@@ -575,7 +575,7 @@ function AboutPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-gray-600",
-                                        children: "Simple URL-based integration with comprehensive documentation."
+                                        children: "Your satisfaction is our priority, and we're not done until you're completely happy."
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                         lineNumber: 161,
@@ -606,7 +606,7 @@ function AboutPage() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                             className: "text-4xl font-bold text-white mb-6",
-                            children: "Ready to Get Started?"
+                            children: "Ready to Experience Quality Service?"
                         }, void 0, false, {
                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                             lineNumber: 171,
@@ -614,14 +614,14 @@ function AboutPage() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-xl text-white/90 mb-8 max-w-2xl mx-auto",
-                            children: "Join businesses that trust Airthorne for SMS verification."
+                            children: "Join the customers who trust Airthorne for professional, reliable service."
                         }, void 0, false, {
                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                             lineNumber: 174,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            href: "/signup",
+                            href: "/getquote",
                             className: "inline-block px-8 py-4 bg-white text-[#1F7A8C] text-lg font-semibold rounded-lg hover:bg-[#F9FAFB] transition-colors shadow-lg",
                             children: "Get Started Today"
                         }, void 0, false, {
@@ -641,12 +641,12 @@ function AboutPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
-                className: "bg-[#3b3a41] text-white py-12",
+                className: "bg-[#1F2937] text-white py-12",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "grid md:grid-cols-4 gap-8",
+                            className: "grid md:grid-cols-3 gap-8",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
@@ -660,7 +660,7 @@ function AboutPage() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-gray-400",
-                                            children: "SMS verification for businesses."
+                                            children: "Professional services you can trust."
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                             lineNumber: 192,
@@ -676,7 +676,7 @@ function AboutPage() {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "font-semibold mb-4",
-                                            children: "Product"
+                                            children: "Company"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                             lineNumber: 197,
@@ -702,9 +702,9 @@ function AboutPage() {
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        href: "/signup",
-                                                        className: "text-gray-400 hover:text-white",
-                                                        children: "Get Started"
+                                                        href: "/privacy",
+                                                        className: "text-gray-400 hover:text-[#B7E87B]",
+                                                        children: "Privacy Policy"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                         lineNumber: 205,
@@ -713,6 +713,21 @@ function AboutPage() {
                                                 }, void 0, false, {
                                                     fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
                                                     lineNumber: 204,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: "/terms",
+                                                        className: "text-gray-400 hover:text-[#B7E87B]",
+                                                        children: "Terms of Service"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
+                                                        lineNumber: 210,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
+                                                    lineNumber: 209,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
@@ -731,79 +746,32 @@ function AboutPage() {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "font-semibold mb-4",
-                                            children: "Legal"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                            lineNumber: 212,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                            className: "space-y-2",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        href: "/privacy",
-                                                        className: "text-gray-400 hover:text-white",
-                                                        children: "Privacy Policy"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                                        lineNumber: 215,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                                    lineNumber: 214,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        href: "/terms",
-                                                        className: "text-gray-400 hover:text-white",
-                                                        children: "Terms of Service"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                                        lineNumber: 220,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                                    lineNumber: 219,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                            lineNumber: 213,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                    lineNumber: 211,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                            className: "font-semibold mb-4",
                                             children: "Contact"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                            lineNumber: 227,
+                                            lineNumber: 217,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "text-gray-400 mb-2",
+                                            children: "+1 (617) 210-8911"
+                                        }, void 0, false, {
+                                            fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
+                                            lineNumber: 218,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-gray-400",
-                                            children: "support@airthorne.com"
+                                            children: "info@airthorne.com"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                            lineNumber: 228,
+                                            lineNumber: 221,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                    lineNumber: 226,
+                                    lineNumber: 216,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -818,12 +786,12 @@ function AboutPage() {
                                 children: "© 2025 Airthorne. All rights reserved."
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                                lineNumber: 234,
+                                lineNumber: 227,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Clickbuzz-airthorne/app/about/page.tsx",
-                            lineNumber: 233,
+                            lineNumber: 226,
                             columnNumber: 11
                         }, this)
                     ]

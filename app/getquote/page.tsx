@@ -11,8 +11,6 @@ export default function SignupPage() {
     email: '',
     phone: '',
     address: '',
-    serviceType: '',
-    propertyType: '',
     urgency: '',
     message: ''
   });
@@ -29,7 +27,7 @@ export default function SignupPage() {
     setTimeout(() => {
       setIsSubmitting(false);
       setSubmitStatus('success');
-      setFormData({ name: '', email: '', phone: '', address: '', serviceType: '', propertyType: '', urgency: '', message: '' });
+      setFormData({ name: '', email: '', phone: '', address: '', urgency: '', message: '' });
     }, 1500);
   };
 
@@ -88,7 +86,7 @@ export default function SignupPage() {
               Get Your Free Quote
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Tell us about your HVAC needs and we'll get back to you within 24 hours with a free quote.
+              Tell us about your needs and we'll get back to you within 24 hours with a free quote.
             </p>
           </div>
         </div>
@@ -120,7 +118,7 @@ export default function SignupPage() {
               <div className="mb-8">
                 <h2 className="text-2xl font-bold text-gray-900 mb-2">Request a Quote</h2>
                 <p className="text-gray-600">
-                  Complete the form below and our team will provide you with a customized quote for your HVAC needs.
+                  Complete the form below and our team will provide you with a customized quote.
                 </p>
               </div>
 
@@ -207,49 +205,6 @@ export default function SignupPage() {
                   />
                 </div>
 
-                {/* Service Type Field */}
-                <div>
-                  <label htmlFor="serviceType" className="block text-sm font-medium text-gray-700 mb-2">
-                    What service do you need? *
-                  </label>
-                  <select
-                    id="serviceType"
-                    name="serviceType"
-                    required
-                    value={formData.serviceType}
-                    onChange={handleChange}
-                    className="block w-full px-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#1F7A8C] focus:border-transparent"
-                  >
-                    <option value="">Select a service</option>
-                    <option value="ac-installation">Air Conditioning Installation</option>
-                    <option value="ac-repair">Air Conditioning Repair</option>
-                    <option value="heating-installation">Heating System Installation</option>
-                    <option value="heating-repair">Heating System Repair</option>
-                    <option value="maintenance">Maintenance/Tune-up</option>
-                    <option value="emergency">Emergency Service</option>
-                    <option value="other">Other</option>
-                  </select>
-                </div>
-
-                {/* Property Type Field */}
-                <div>
-                  <label htmlFor="propertyType" className="block text-sm font-medium text-gray-700 mb-2">
-                    Property Type *
-                  </label>
-                  <select
-                    id="propertyType"
-                    name="propertyType"
-                    required
-                    value={formData.propertyType}
-                    onChange={handleChange}
-                    className="block w-full px-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#1F7A8C] focus:border-transparent"
-                  >
-                    <option value="">Select property type</option>
-                    <option value="residential">Residential</option>
-                    <option value="commercial">Commercial</option>
-                  </select>
-                </div>
-
                 {/* Urgency Field */}
                 <div>
                   <label htmlFor="urgency" className="block text-sm font-medium text-gray-700 mb-2">
@@ -283,7 +238,7 @@ export default function SignupPage() {
                     value={formData.message}
                     onChange={handleChange}
                     className="block w-full px-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#1F7A8C] focus:border-transparent"
-                    placeholder="Tell us more about your HVAC needs..."
+                    placeholder="Tell us more about your needs..."
                   />
                 </div>
 
@@ -386,17 +341,17 @@ export default function SignupPage() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-[#3b3a41] text-white py-12 mt-20">
+      <footer className="bg-[#1F2937] text-white py-12 mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             <div>
               <h3 className="text-xl font-bold mb-4">Airthorne</h3>
               <p className="text-gray-400">
-                Carrier-compliant SMS verification for businesses.
+                Professional services you can trust.
               </p>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Product</h4>
+              <h4 className="font-semibold mb-4">Company</h4>
               <ul className="space-y-2">
                 <li>
                   <Link href="/about" className="text-gray-400 hover:text-white">
@@ -404,22 +359,12 @@ export default function SignupPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/getquote" className="text-gray-400 hover:text-white">
-                    Get Started
-                  </Link>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Legal</h4>
-              <ul className="space-y-2">
-                <li>
-                  <Link href="/privacy" className="text-gray-400 hover:text-white">
+                  <Link href="/privacy" className="text-gray-400 hover:text-[#B7E87B]">
                     Privacy Policy
                   </Link>
                 </li>
                 <li>
-                  <Link href="/terms" className="text-gray-400 hover:text-white">
+                  <Link href="/terms" className="text-gray-400 hover:text-[#B7E87B]">
                     Terms of Service
                   </Link>
                 </li>
@@ -427,12 +372,15 @@ export default function SignupPage() {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
+              <p className="text-gray-400 mb-2">
+                +1 (617) 210-8911
+              </p>
               <p className="text-gray-400">
-                support@airthorne.com
+                info@airthorne.com
               </p>
             </div>
           </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+          <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
             <p>&copy; 2025 Airthorne. All rights reserved.</p>
           </div>
         </div>
