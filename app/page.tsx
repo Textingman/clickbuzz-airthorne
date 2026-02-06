@@ -262,6 +262,12 @@ export default function HomePage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400 mb-2">
+                62 Hypolita St
+              </p>
+              <p className="text-gray-400 mb-2">
+                Saint Augustine, FL 32084
+              </p>
+              <p className="text-gray-400 mb-2">
                 +1 (617) 210-8911
               </p>
               <p className="text-gray-400">
