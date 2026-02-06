@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  /* Neutrals (Foundation) */
+  --background: #F4F3EF;
+  --card-background: #FFFFFF;
+  --foreground: #1F1F1F;
+  --text-secondary: #6B6B6B;
+  --text-muted: #9A9A9A;
+  --border-color: #E6E6E6;
+  
+  /* Brand Accent (Trust / Reliability) */
+  --brand-blue: #1F7A8C;
+  --brand-blue-hover: #2493A3;
+  
+  /* Primary CTA (Conversion) */
+  --cta-green: #B7E87B;
+  --cta-green-hover: #A4DA64;
+  --cta-text: #1F1F1F;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-card-background: var(--card-background);
+  --color-foreground: var(--foreground);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --color-border: var(--border-color);
+  --color-brand-blue: var(--brand-blue);
+  --color-brand-blue-hover: var(--brand-blue-hover);
+  --color-cta-green: var(--cta-green);
+  --color-cta-green-hover: var(--cta-green-hover);
+  --color-cta-text: var(--cta-text);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #F4F3EF;
+    --foreground: #1F1F1F;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

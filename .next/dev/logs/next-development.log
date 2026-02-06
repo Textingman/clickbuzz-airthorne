@@ -1,0 +1,266 @@
+[00:00:00.970] Server  LOG     ✓ Ready in 472ms
+[00:00:05.090] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:11.711] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:12.369] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:12.889] Server  LOG     ✓ Compiled in 45ms
+[00:02:05.964] Server  LOG     ✓ Compiled in 12ms
+[00:02:12.716] Server  LOG     ✓ Compiled in 13ms
+[00:03:47.025] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:36.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:36.249] Browser WARN    Image with src "/Airthorne_Logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:05:38.460] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:21.326] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:22.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:52.522] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:53.864] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:53.969] Browser WARN    Image with src "/HVAC_Image2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:54.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:54.729] Browser WARN    Image with src "/HVAC_Image2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:55.697] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:55.821] Browser WARN    Image with src "/HVAC_Image2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:03.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:03.600] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:03.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:03.953] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:04.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:04.291] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:04.478] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:04.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:04.864] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:05.049] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:05.659] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:05.851] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:06.063] Server  LOG     ✓ Compiled in 62ms
+[00:11:06.341] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:08.686] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:08.845] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:09.341] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:11.423] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:11.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:11.835] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:12.184] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:12.463] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:17.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:21.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:16.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:56.063] Server  LOG     ✓ Compiled in 207ms
+[00:15:30.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:10.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:10.632] Browser WARN    Image with src "/HVAC_Image2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:16:22.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:22.902] Browser WARN    Image with src "/HVAC_Image2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:16:23.288] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:23.396] Browser WARN    Image with src "/HVAC_Image2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:17:03.728] Browser WARN    Image with src "/HVAC_Image3.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:19:59.051] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Clickbuzz-airthorne/node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:19:59.498] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:30.253] Server  LOG     ✓ Compiled in 14ms
+[00:20:30.673] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:41.846] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:07.365] Server  LOG     ✓ Compiled in 96ms
+[00:25:01.778] Server  LOG     ✓ Compiled in 267ms
+[00:26:05.945] Server  LOG     ✓ Compiled in 134ms
+[00:26:06.050] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:13.401] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:30.624] Server  ERROR   ⨯ ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+
+[00:26:30.733] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:31.110] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:31.110] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:31.416] Server  ERROR   ⨯ ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+
+[00:26:31.602] Browser ERROR   uncaughtError: Error: ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+
+[00:26:31.770] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:31.770] Browser ERROR   ./Clickbuzz-airthorne/app/getquote/page.tsx:1:5
+Parsing ecmascript source code failed
+> 1 |  to get you started.'use client';
+    |     ^^^
+  2 |
+  3 | import Link from 'next/link';
+  4 | import Image from 'next/image';
+
+Expected ';', '}' or <eof>
+
+Import traces:
+  Client Component Browser:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component Browser]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Client Component SSR]
+    ./Clickbuzz-airthorne/app/getquote/page.tsx [Server Component]
+[00:26:56.071] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:33.052] Server  LOG     ✓ Compiled in 92ms
+[00:28:42.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:42.710] Browser WARN    Image with src "/Airthorne_Logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:30:56.553] Server  LOG     ✓ Compiled in 172ms
+[00:30:57.309] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:20.436] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:20.560] Browser WARN    Image with src "/Airthorne_Logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
