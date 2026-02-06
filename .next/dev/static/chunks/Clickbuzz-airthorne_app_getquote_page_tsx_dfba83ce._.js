@@ -61,11 +61,11 @@ function SignupPage() {
         className: "min-h-screen bg-white",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
-                className: "bg-white shadow-sm",
+                className: "bg-white shadow-sm border-b border-[#E5E7EB]",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "flex justify-between items-center h-32",
+                        className: "flex justify-between items-center h-20",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex items-center",
@@ -96,11 +96,11 @@ function SignupPage() {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "hidden md:block",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "ml-10 flex items-baseline space-x-4",
+                                    className: "ml-10 flex items-baseline space-x-6",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/",
-                                            className: "text-[#6B7280] hover:text-[#1F7A8C] px-3 py-2 rounded-md text-sm font-medium",
+                                            className: "text-[#6B7280] hover:text-[#1F7A8C] px-3 py-2 text-sm font-medium",
                                             children: "Home"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
@@ -109,7 +109,7 @@ function SignupPage() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             href: "/about",
-                                            className: "text-[#6B7280] hover:text-[#1F7A8C] px-3 py-2 rounded-md text-sm font-medium",
+                                            className: "text-[#6B7280] hover:text-[#1F7A8C] px-3 py-2 text-sm font-medium",
                                             children: "About"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
@@ -117,30 +117,12 @@ function SignupPage() {
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                            href: "/privacy",
-                                            className: "text-[#6B7280] hover:text-[#1F7A8C] px-3 py-2 rounded-md text-sm font-medium",
-                                            children: "Privacy"
+                                            href: "/getquote",
+                                            className: "bg-[#B7E87B] text-[#1F1F1F] hover:bg-[#A4DA64] px-6 py-2 rounded-md text-sm font-semibold transition-colors",
+                                            children: "Get a Quote"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
                                             lineNumber: 66,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                            href: "/terms",
-                                            className: "text-[#6B7280] hover:text-[#1F7A8C] px-3 py-2 rounded-md text-sm font-medium",
-                                            children: "Terms"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 69,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                            href: "/getquote",
-                                            className: "bg-[#B7E87B] text-white hover:bg-[#A4DA64] px-4 py-2 rounded-md text-sm font-medium",
-                                            children: "Get Started"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 72,
                                             columnNumber: 17
                                         }, this)
                                     ]
@@ -182,7 +164,7 @@ function SignupPage() {
                                 children: "Get Your Free Quote"
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 85,
+                                lineNumber: 79,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -190,23 +172,23 @@ function SignupPage() {
                                 children: "Tell us about your needs and we'll get back to you within 24 hours with a free quote."
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 88,
+                                lineNumber: 82,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                        lineNumber: 84,
+                        lineNumber: 78,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                    lineNumber: 83,
+                    lineNumber: 77,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                lineNumber: 82,
+                lineNumber: 76,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -230,17 +212,17 @@ function SignupPage() {
                                         d: "M5 13l4 4L19 7"
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 102,
+                                        lineNumber: 96,
                                         columnNumber: 19
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                    lineNumber: 101,
+                                    lineNumber: 95,
                                     columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 100,
+                                lineNumber: 94,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -248,7 +230,7 @@ function SignupPage() {
                                 children: "Thank You!"
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 105,
+                                lineNumber: 99,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -256,7 +238,7 @@ function SignupPage() {
                                 children: "We've received your request. Our team will contact you within 24 hours."
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 106,
+                                lineNumber: 100,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -265,13 +247,13 @@ function SignupPage() {
                                 children: "Return to Home"
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 109,
+                                lineNumber: 103,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                        lineNumber: 99,
+                        lineNumber: 93,
                         columnNumber: 13
                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
                         children: [
@@ -283,7 +265,7 @@ function SignupPage() {
                                         children: "Request a Quote"
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 119,
+                                        lineNumber: 113,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -291,13 +273,13 @@ function SignupPage() {
                                         children: "Complete the form below and our team will provide you with a customized quote."
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 120,
+                                        lineNumber: 114,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 118,
+                                lineNumber: 112,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -312,7 +294,7 @@ function SignupPage() {
                                                 children: "Full Name *"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 128,
+                                                lineNumber: 122,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -324,12 +306,12 @@ function SignupPage() {
                                                             className: "h-5 w-5 text-gray-400"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 133,
+                                                            lineNumber: 127,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 132,
+                                                        lineNumber: 126,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -343,19 +325,19 @@ function SignupPage() {
                                                         placeholder: "John Doe"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 135,
+                                                        lineNumber: 129,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 131,
+                                                lineNumber: 125,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 127,
+                                        lineNumber: 121,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -366,7 +348,7 @@ function SignupPage() {
                                                 children: "Email Address *"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 150,
+                                                lineNumber: 144,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -378,12 +360,12 @@ function SignupPage() {
                                                             className: "h-5 w-5 text-gray-400"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 155,
+                                                            lineNumber: 149,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 154,
+                                                        lineNumber: 148,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -397,19 +379,19 @@ function SignupPage() {
                                                         placeholder: "john@example.com"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 157,
+                                                        lineNumber: 151,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 153,
+                                                lineNumber: 147,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 149,
+                                        lineNumber: 143,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -420,7 +402,7 @@ function SignupPage() {
                                                 children: "Phone Number (Optional)"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 172,
+                                                lineNumber: 166,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -432,12 +414,12 @@ function SignupPage() {
                                                             className: "h-5 w-5 text-gray-400"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 177,
+                                                            lineNumber: 171,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 176,
+                                                        lineNumber: 170,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -450,19 +432,19 @@ function SignupPage() {
                                                         placeholder: "(555) 123-4567"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 179,
+                                                        lineNumber: 173,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 175,
+                                                lineNumber: 169,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 171,
+                                        lineNumber: 165,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -473,7 +455,7 @@ function SignupPage() {
                                                 children: "Service Address *"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 193,
+                                                lineNumber: 187,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -487,13 +469,13 @@ function SignupPage() {
                                                 placeholder: "123 Main St, City, State ZIP"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 196,
+                                                lineNumber: 190,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 192,
+                                        lineNumber: 186,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -504,7 +486,7 @@ function SignupPage() {
                                                 children: "When do you need service? *"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 210,
+                                                lineNumber: 204,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -520,7 +502,7 @@ function SignupPage() {
                                                         children: "Select timeframe"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 221,
+                                                        lineNumber: 215,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -528,7 +510,7 @@ function SignupPage() {
                                                         children: "Emergency (ASAP)"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 222,
+                                                        lineNumber: 216,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -536,7 +518,7 @@ function SignupPage() {
                                                         children: "Within a week"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 223,
+                                                        lineNumber: 217,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -544,7 +526,7 @@ function SignupPage() {
                                                         children: "Within a month"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 224,
+                                                        lineNumber: 218,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -552,19 +534,19 @@ function SignupPage() {
                                                         children: "Just planning ahead"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 225,
+                                                        lineNumber: 219,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 213,
+                                                lineNumber: 207,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 209,
+                                        lineNumber: 203,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -575,7 +557,7 @@ function SignupPage() {
                                                 children: "Additional Details (Optional)"
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 231,
+                                                lineNumber: 225,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -588,13 +570,13 @@ function SignupPage() {
                                                 placeholder: "Tell us more about your needs..."
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 234,
+                                                lineNumber: 228,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 230,
+                                        lineNumber: 224,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -611,7 +593,7 @@ function SignupPage() {
                                                             className: "mt-1 h-4 w-4 text-[#B7E87B] focus:ring-[#1F7A8C] border-gray-300 rounded flex-shrink-0"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 250,
+                                                            lineNumber: 244,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -620,18 +602,18 @@ function SignupPage() {
                                                             children: "By checking this box, you provide consent to receive automated SMS messages from Airthorne. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@airthorne.com. Consent is not required as a condition of purchasing any products or services."
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 255,
+                                                            lineNumber: 249,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 249,
+                                                    lineNumber: 243,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 248,
+                                                lineNumber: 242,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -645,7 +627,7 @@ function SignupPage() {
                                                             className: "mt-1 h-4 w-4 text-[#B7E87B] focus:ring-[#1F7A8C] border-gray-300 rounded flex-shrink-0"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 264,
+                                                            lineNumber: 258,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -654,18 +636,18 @@ function SignupPage() {
                                                             children: "By checking this box, you provide consent to receive automated customer care calls from Airthorne. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@airthorne.com. Consent is not required as a condition of purchasing any products or services."
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 269,
+                                                            lineNumber: 263,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 263,
+                                                    lineNumber: 257,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 262,
+                                                lineNumber: 256,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -681,7 +663,7 @@ function SignupPage() {
                                                             className: "mt-1 h-4 w-4 text-[#B7E87B] focus:ring-[#1F7A8C] border-gray-300 rounded flex-shrink-0"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 278,
+                                                            lineNumber: 272,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -690,18 +672,18 @@ function SignupPage() {
                                                             children: "By checking this box, you consent to receive account notifications, service updates, and important information about your Airthorne account via email and SMS. You may opt-out at any time by contacting support@airthorne.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services."
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 285,
+                                                            lineNumber: 279,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 277,
+                                                    lineNumber: 271,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 276,
+                                                lineNumber: 270,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -715,7 +697,7 @@ function SignupPage() {
                                                             className: "mt-1 h-4 w-4 text-[#B7E87B] focus:ring-[#1F7A8C] border-gray-300 rounded flex-shrink-0"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 294,
+                                                            lineNumber: 288,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -730,7 +712,7 @@ function SignupPage() {
                                                                     children: "Terms & Conditions"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                                    lineNumber: 301,
+                                                                    lineNumber: 295,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 ' ',
@@ -742,31 +724,31 @@ function SignupPage() {
                                                                     children: "Privacy Policy"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                                    lineNumber: 305,
+                                                                    lineNumber: 299,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 "."
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 299,
+                                                            lineNumber: 293,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 293,
+                                                    lineNumber: 287,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                lineNumber: 292,
+                                                lineNumber: 286,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 246,
+                                        lineNumber: 240,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -791,7 +773,7 @@ function SignupPage() {
                                                             strokeWidth: "4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 327,
+                                                            lineNumber: 321,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -800,43 +782,43 @@ function SignupPage() {
                                                             d: "M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                            lineNumber: 328,
+                                                            lineNumber: 322,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 326,
+                                                    lineNumber: 320,
                                                     columnNumber: 23
                                                 }, this),
                                                 "Submitting..."
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 325,
+                                            lineNumber: 319,
                                             columnNumber: 21
                                         }, this) : 'Submit'
                                     }, void 0, false, {
                                         fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                        lineNumber: 315,
+                                        lineNumber: 309,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 125,
+                                lineNumber: 119,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true)
                 }, void 0, false, {
                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                    lineNumber: 97,
+                    lineNumber: 91,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                lineNumber: 96,
+                lineNumber: 90,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -854,13 +836,83 @@ function SignupPage() {
                                             children: "Airthorne"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 348,
+                                            lineNumber: 342,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-gray-400",
                                             children: "Professional services you can trust."
                                         }, void 0, false, {
+                                            fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                            lineNumber: 343,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                    lineNumber: 341,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                            className: "font-semibold mb-4",
+                                            children: "Company"
+                                        }, void 0, false, {
+                                            fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                            lineNumber: 348,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                            className: "space-y-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: "/about",
+                                                        className: "text-gray-400 hover:text-white",
+                                                        children: "About"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                                        lineNumber: 351,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                                    lineNumber: 350,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: "/privacy",
+                                                        className: "text-gray-400 hover:text-[#B7E87B]",
+                                                        children: "Privacy Policy"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                                        lineNumber: 356,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                                    lineNumber: 355,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: "/terms",
+                                                        className: "text-gray-400 hover:text-[#B7E87B]",
+                                                        children: "Terms of Service"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                                        lineNumber: 361,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
+                                                    lineNumber: 360,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
                                             lineNumber: 349,
                                             columnNumber: 15
@@ -875,80 +927,10 @@ function SignupPage() {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "font-semibold mb-4",
-                                            children: "Company"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 354,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                            className: "space-y-2",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                        href: "/about",
-                                                        className: "text-gray-400 hover:text-white",
-                                                        children: "About"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 357,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 356,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                        href: "/privacy",
-                                                        className: "text-gray-400 hover:text-[#B7E87B]",
-                                                        children: "Privacy Policy"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 362,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 361,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                        href: "/terms",
-                                                        className: "text-gray-400 hover:text-[#B7E87B]",
-                                                        children: "Terms of Service"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                        lineNumber: 367,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                                    lineNumber: 366,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 355,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                    lineNumber: 353,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                            className: "font-semibold mb-4",
                                             children: "Contact"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 374,
+                                            lineNumber: 368,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -956,7 +938,7 @@ function SignupPage() {
                                             children: "+1 (617) 210-8911"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 375,
+                                            lineNumber: 369,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -964,19 +946,19 @@ function SignupPage() {
                                             children: "info@airthorne.com"
                                         }, void 0, false, {
                                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                            lineNumber: 378,
+                                            lineNumber: 372,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                    lineNumber: 373,
+                                    lineNumber: 367,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                            lineNumber: 346,
+                            lineNumber: 340,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Clickbuzz$2d$airthorne$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -985,23 +967,23 @@ function SignupPage() {
                                 children: "© 2025 Airthorne. All rights reserved."
                             }, void 0, false, {
                                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                                lineNumber: 384,
+                                lineNumber: 378,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                            lineNumber: 383,
+                            lineNumber: 377,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                    lineNumber: 345,
+                    lineNumber: 339,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Clickbuzz-airthorne/app/getquote/page.tsx",
-                lineNumber: 344,
+                lineNumber: 338,
                 columnNumber: 7
             }, this)
         ]
